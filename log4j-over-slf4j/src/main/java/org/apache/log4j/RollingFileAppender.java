@@ -46,4 +46,8 @@ public class RollingFileAppender {
         // nothing to do
     }
 
+    public String getFile() {
+        return "";
+    }
+
 }
